@@ -1,0 +1,4 @@
+License
+The MIT License is simple and easy to understand and it places almost no restrictions on what you can do with jConfirm.
+
+You are free to use jConfirm in commercial projects as long as the copyright header is left intact.
